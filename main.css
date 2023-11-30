@@ -7,14 +7,12 @@
 html, body {
   width: 100%;
   height: 100%;
-  /* min-height: 100vh; */
   scroll-behavior: smooth;
   font-family: sans-serif;
 }
 
 body {
-  /* height: 950px; */
-  background-image: url(../img/home.jpg);
+  background-image: url(img/home.jpg);
   background-repeat: no-repeat;
   background-position-y: -50px;
   background-size: cover;
@@ -138,72 +136,72 @@ p {
 }
 
 .card1 {
-  background-image: url(../img/house1.jpeg);
+  background-image: url(img/house1.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .card2 {
-  background-image: url(../img/house2.jpg);
+  background-image: url(img/house2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .card3 {
-  background-image: url(../img/house3.jpg);
+  background-image: url(img/house3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .card4 {
-  background-image: url(../img/house4.jpg);
+  background-image: url(img/house4.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .card5 {
-  background-image: url(../img/house5.jpg);
+  background-image: url(img/house5.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .card6 {
-  background-image: url(../img/house6.jpg);
+  background-image: url(img/house6.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .card7 {
-  background-image: url(../img/house7.jpg);
+  background-image: url(img/house7.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .card8 {
-  background-image: url(../img/house8.jpg);
+  background-image: url(img/house8.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .card9 {
-  background-image: url(../img/house9.jpg);
+  background-image: url(img/house9.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .card10 {
-  background-image: url(../img/house10.jpg);
+  background-image: url(img/house10.jpg);
   background-repeat: no-repeat;
   background-size: cover;  
 }
 
 .card11 {
-  background-image: url(../img/house11.jpg);
+  background-image: url(img/house11.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .card12 {
-  background-image: url(../img/house12.jpg);
+  background-image: url(img/house12.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -221,9 +219,7 @@ p {
   /* border: 5px solid red; */
   background-color: #454545;
   height: 300px;
-  /* margin-top: 700px; */
   padding-top: 20px;
-  /* flex-shrink: 0; */
 }
 
 form {
