@@ -1,0 +1,131 @@
+@media screen and (max-width: 1800px) {
+  
+  .empty {
+    width: 750px;
+  }
+
+  .razdelitel {
+    height: 610px;
+  }
+
+  .razdelitel2 {
+    height: 610px;
+  }
+
+}
+
+@media screen and (max-width: 1600px) {
+
+  .empty {
+    width: 500px;
+  }
+
+  .razdelitel {
+    height: 600px;
+  }
+
+  .razdelitel2 {
+    height: 600px;
+  }
+
+  .flex-containers {
+    flex-wrap: wrap;
+  }
+
+  .cards {
+    width: 700px;
+    height: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+  }
+
+  .card3 {
+    width: 1200px;
+    height: 600px;
+  }
+
+  .card6 {
+    width: 1200px;
+    height: 600px;
+  }
+
+  .card9 {
+    width: 1200px;
+    height: 600px;
+  }
+
+  .card12 {
+    width: 1200px;
+    height: 600px;
+  }
+
+}
+
+@media screen and (max-width: 1450px) {
+  
+  .empty {
+    width: 300px;
+  }
+
+  .razdelitel {
+    height: 550px;
+  }
+
+  .razdelitel2 {
+    height: 550px;
+  }
+
+  .cards {
+    width: 1200px;
+    height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+  }
+
+}
+
+@media screen and (max-width: 1250px) {
+  
+  .empty {
+    width: 250px;
+  }
+
+  .razdelitel {
+    height: 550px;
+  }
+
+  .razdelitel2 {
+    height: 550px;
+  }
+
+  .cards {
+    width: 900px;
+    height: 500px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+  }
+
+}
+
+@media screen and (max-width: 1100px) {
+  
+  .empty {
+    display: none;
+  }
+
+  .razdelitel2 {
+    height: 450px;
+  }
+
+  .cards {
+    width: 700px;
+    height: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+  }
+
+}
